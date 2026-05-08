@@ -1,4 +1,4 @@
-Copyright (C) 20XX TOYOTA CENTRAL R&D LABS., INC. All Rights Reserved.
+Copyright (C) 2026 TOYOTA CENTRAL R&D LABS., INC. All Rights Reserved.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (collectively, the "Software"), the rights to use, copy, modify and/or merge the Software, for non-commercial research purposes, specifically limited to educational use, verification of research results, publication in academic papers, and presentations at academic conferences, subject to the following conditions:
 
